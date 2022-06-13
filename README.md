@@ -1,7 +1,7 @@
 # About Me 👋
 
 - 👷‍♂️ I'm currently working on cool policy projects with [RIPL](https://www.ripl.org/).
-- 💻 I like working with and making open source software - particularly R.
+- 💻 I like working with and making open source software.
 - 👇 Check out some of the small, random stuff I've made!
 - 📫 My contact stuffs:
   - 💌 molitdj97@gmail.com
