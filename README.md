@@ -3,5 +3,5 @@
 <h1 align="center">Daniel Molitor</h1>
 </p>
 <p align="center">
-👋 Hi there, I'm Daniel! Check out my <a href="https://dmolitor.com">personal website</a>.
+👋 Hi there, I'm Daniel! Check out my <a href="https://dmolitor.com" target="_blank">personal website</a>.
 </p>
