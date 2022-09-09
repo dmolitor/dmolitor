@@ -1,5 +1,5 @@
 <p align="center" style="text-align:center;font-size=10px;">
-<img src="media/_profile.png" alt="Profile Pic" style="width:30%;height:auto;">
+<img src="media/_profile.png" alt="Profile Pic" style="width:25%;height:auto%;">
 <h1 align="center">Daniel Molitor</h1>
 </p>
 <p align="center">
