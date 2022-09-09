@@ -1,9 +1,7 @@
-<p style="text-align:center;">
-  <img src="media/_profile.png" alt="Profile Pic">
+<p align="center" style="text-align:center;font-size=10px;">
+<img src="media/_profile.png" alt="Profile Pic" style="min-width:250px;width:30%;height:auto;">
+<h1 align="center">Daniel Molitor</h1>
 </p>
-<p style="text-align:center;">
-<b style="font-size:40px">Daniel Molitor</b>
-<br/>
-<span style="font-size:20px">PhD Student <a href="https://infosci.cornell.edu/phd">@ Cornell Information Science</a></span>
-<br/>
-👋 Hi there, I'm Daniel! Check out my [personal website](https://dmolitor.com).
+<p align="center">
+👋 Hi there, I'm Daniel! Check out my <a href="https://dmolitor.com">personal website</a>.
+</p>
